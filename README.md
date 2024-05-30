@@ -1,2 +1,2 @@
-# potential-palm-tree
-Random Number Generator
+# Random Number Generator
+Tool to help Ella with MRP data collection.
